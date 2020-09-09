@@ -165,4 +165,8 @@ header .site-title {
 
 .slider-two .slick-track .product:hover span {
     background-color: var(--primary-color);
+    
+}
+.slick-track{
+    padding-bottom: 100px;
 }
