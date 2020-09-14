@@ -172,3 +172,6 @@ header .site-title {
 .slick-track{
     padding-bottom: 100px;
 }
+.slick-slide{
+    outline: none;
+}
